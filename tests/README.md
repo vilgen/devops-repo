@@ -21,6 +21,4 @@ exit
 docker restart sonarqube 
 ```
 
-
-
-     
+ 
